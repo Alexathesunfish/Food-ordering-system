@@ -133,11 +133,9 @@ tbody tr:nth-child(even) {
 
 <script>
 let students = [
-    {id: 1, first: "alexa", last: "francisco", age: 14},
-    {id: 2, first: "jianna", last: "labata", age: 14},
-    {id: 3, first: "rio", last: "hermoso", age: 15}
-{id: 4, first: "khloe", last: "rimando", age: 16}
-{id: 5, first: "ryckale", last: "rubenecia", age: 15}
+    {id: 1, first: "Anirban", last: "Bhowmick", age: 28},
+    {id: 2, first: "Tarun", last: "Singh", age: 24},
+    {id: 3, first: "Ajay", last: "Singh", age: 25}
 ];
 
 let editId = null;
